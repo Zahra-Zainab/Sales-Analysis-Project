@@ -23,7 +23,7 @@ This Power BI dashboard provides an interactive view of sales data to help under
    git clone https://github.com/Zahra-Zainab/Sales-Analysis-Project.git
  
    ```  
-3. **Open the Dashboard** – Launch `sales-analysis-dashboard.pbix` in Power BI.  
+3. **Open the Dashboard** – Launch sales-analysis-dashboard.pbix in Power BI.  
 4. **Explore the Data** – Use slicers and visuals to uncover trends and insights.
 
 ## 🖼️ Sample Dashboard View  
